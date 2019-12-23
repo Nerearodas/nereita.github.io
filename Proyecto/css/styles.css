@@ -1,0 +1,14 @@
+h1 {
+    color: red; 
+    background-color:yellow
+}
+h2 {
+    color:blueviolet
+    font-family: arial
+}
+.orange{
+    color:orange
+}
+#luz {
+     float:right;
+}
